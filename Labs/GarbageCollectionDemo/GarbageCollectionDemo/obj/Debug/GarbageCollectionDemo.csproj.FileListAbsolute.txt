@@ -1,0 +1,7 @@
+C:\Users\verit\ISTA322\Labs\GarbageCollectionDemo\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe.config
+C:\Users\verit\ISTA322\Labs\GarbageCollectionDemo\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.exe
+C:\Users\verit\ISTA322\Labs\GarbageCollectionDemo\GarbageCollectionDemo\bin\Debug\GarbageCollectionDemo.pdb
+C:\Users\verit\ISTA322\Labs\GarbageCollectionDemo\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csprojAssemblyReference.cache
+C:\Users\verit\ISTA322\Labs\GarbageCollectionDemo\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\verit\ISTA322\Labs\GarbageCollectionDemo\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.exe
+C:\Users\verit\ISTA322\Labs\GarbageCollectionDemo\GarbageCollectionDemo\obj\Debug\GarbageCollectionDemo.pdb

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My first web page</title>
+		<meta name=’author’ content=’Derek Cobb’ />
+		<meta name=’description’ content=’This is my first web page.’ />
+		<meta name='cohort' content='Fort Benning CAD cohort 7' />
+		<meta name='favorite dog' content = 'Athena' />
+		<script>
+		<!-- no script yet -->
+		</script>
+		<style>
+		<!-- no style yet -->
+		</style>
+	</head>
+	<body>
+		<hr />
+		<a name="top" />
+		<a href="#bottom">Go to the bottom of the page</a>
+		<hr />
+	<h1>Basic HTML</h1>
+	<!--This is a comment, completely ignored by the browser -->
+		<p>Hellow World! Fix my camps lock. This is a paragraph.</p>
+		<p>Paragraphs are block level elements. Inline elements are displayed from left to right.
+			<i>This displays as italic.</i>
+			<b>This displays as bold.</b>
+			<br />
+			<em>What does &ltem&gt; display?</em>
+			<strong>What does &lt;strong&gt; display?</strong>
+			<tt>This displays as monospace font.</tt>
+		</p>
+		<div>
+			This is division one.
+			<span style="background-color: #ededef;">This is span one.</span>
+			<span style="color:red">This is span two.</span>
+			<span>This is span three.</span>
+		</div>
+		<div>
+			This is division two.
+		</div>
+		<div>
+			This is division three.
+		</div>
+		
+		<h1>Lists</h1>
+		<h3>This is an unordered list</h3>
+		
+		<u1>
+			<li>Green</li>
+			<li>Eggs</li>
+			<li>and</li>
+			<li>Ham</li>
+		</ul>
+		<h3>This is an ordered list</h3>
+		<ol>
+			<li>The</li>
+			<li>Cat</li>
+			<li>in</li>
+			<li>the</li>
+			<li>Hat</li>
+		</ol>
+		<h3>This is a definition list</h3>
+		<dl>
+			<dt>M9</dt><dd>9mm </dd>
+			<dt>M14</dt><dd>7.62mm</dd>
+			<dt>M16</dt><dd>5.56mm</dd>
+			<dt>M2</dt><dd>.50 cal</dd>
+			<dt>Mk2</dt><dd>40mm</dd>
+		</dl>
+		
+		<h1>Hypber Links</h1>
+			<a href="https://weather.com" target="new">get the weather</a> <br />
+			<a href="http://cnn.com" target="new">get news</a> <br />
+			<a href="http://foxnews.com" target="new">get news</a> <br />
+			
+			
+		<h1>HTML Tables</h1>
+		
+			<table rules="all" style="border: 6px #66ff55 groove;">
+				<tr>
+					<th>Name</th>
+					<th>Place of Birth</th>
+					<th>Favorite Color</th>
+				</tr>
+				
+				<tr>
+					<td>James</td>
+					<td>Texas</td>
+					<td>Green</td>
+				</tr>
+				
+				<tr>
+					<td>Milton</td>
+					<td>Mississippi</td>
+					<td>Red</td>
+				</tr>
+				
+				<tr>
+					<td>Lorenzo</td>
+					<td>Florida</td>
+					<td>Blue</td>
+				</tr>
+				
+			</table>
+			
+		<h1>Images</h1>
+			<img src="susan01.png" alt="Map to Panama City, Floriday" width="50%50"/>
+			
+		<h1>HTML Forms</h1>
+			<form method="get" >
+					<input type="hidden" name="mysecret" id="mysecret" value="Number 23" />
+				Name: <input type="text" name="name" id="name" /><br />
+				Password: <input type="password" name="password" id="password" /><br />
+				Color: <input type="color" name="color" id="color" /><br />
+				Range: <input type="range" name="range" id="range" value="50" min="0" max="100" step="2"
+					oninput="rangedisplay.value = range.value"/><br />
+					<output id="rangedisplay"></output<br />
+				<h3>Pizza</h3>
+				<input type="checkbox" name="pizza" id="pizza" value="pepperoni" />Pepperoni |<br />
+				<input type="checkbox" name="pizza" id="pizza" value="meatballs" />Meatballs |<br />
+				<input type="checkbox" name="pizza" id="pizza" value="Italian Sausage" />Italian Sausage |<br />
+				<input type="checkbox" name="pizza" id="pizza" value="pineapple" />pineapple |<br />
+				<input type="checkbox" name="pizza" id="pizza" value="jalapeno" />Jalapeno |<br />
+				<input type="checkbox" name="pizza" id="pizza" value="black olives" />black olives |<br />
+				<input type="checkbox" name="pizza" id="pizza" value="green peppers" />green peppers |<br />
+				
+				<h3>Sex</h3>
+				<input type="radio" name="sex" id="sex" value ="male" />Male<br />
+				<input type="radio" name="sex" id="sex" value ="female" />Female<br />
+				<br />
+				<h3>My Favorite Theater</h3>
+				<select name="theater" id="theater" size="3" multiple="multiple">
+					<option value="Iraq">Iraq</option>
+					<option value="Afghanistan">Afghanistan</option>
+					<option value="Africa">Africa</option>
+					<option value="Fayette Nam">Fayette Nam</option><br />
+				</select>
+				<br />
+				
+				<h3>Text Area</h3>
+					<textarea name="freeform" id="freeform" rows="4" cols="24">Type Something In Here
+				
+				
+				</textarea>
+				<br />
+				<button name="pressme" id="pressme" value="Press Me"/>Press Me</button>
+				<br />
+				<br />
+				<br />
+				<br />
+				<input type="submit" name="submit" id="submit" value="Submit" /><br />
+				<input type="reset" name="reset" id="reset" value="reset" /><br />
+				
+		
+			</form>
+			
+			<hr />
+			<a href="#top">Go to the top of the page"</a>
+			<a name="bottom" />
+			<hr />
+	</body>
+</html>
