@@ -1,0 +1,1 @@
+C:\Users\verit\ISTA220\Labs\Drawing Using Properties\Drawing\Drawing.csproj;x86

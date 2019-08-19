@@ -1,0 +1,7 @@
+C:\Users\verit\ISTA322\Exercises\Roulette Project\Roulette Project\bin\Debug\Roulette Project.exe.config
+C:\Users\verit\ISTA322\Exercises\Roulette Project\Roulette Project\bin\Debug\Roulette Project.exe
+C:\Users\verit\ISTA322\Exercises\Roulette Project\Roulette Project\bin\Debug\Roulette Project.pdb
+C:\Users\verit\ISTA322\Exercises\Roulette Project\Roulette Project\obj\Debug\Roulette Project.csprojAssemblyReference.cache
+C:\Users\verit\ISTA322\Exercises\Roulette Project\Roulette Project\obj\Debug\Roulette Project.csproj.CoreCompileInputs.cache
+C:\Users\verit\ISTA322\Exercises\Roulette Project\Roulette Project\obj\Debug\Roulette Project.exe
+C:\Users\verit\ISTA322\Exercises\Roulette Project\Roulette Project\obj\Debug\Roulette Project.pdb
